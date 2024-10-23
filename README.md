@@ -1,5 +1,5 @@
 # LaserFocus
-[![Channel Banner](images/LaserFocus%20Channel%20Banner.png)](https://www.youtube.com/@laserfocus314)
+[![Channel Banner](images/Channel%20Banner.png)](https://www.youtube.com/@laserfocus314)
 
 This repository contains all the code files used in creating videos for the LaserFocus YouTube channel.
 All the code in this repository is made with:
