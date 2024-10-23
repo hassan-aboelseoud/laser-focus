@@ -1,4 +1,6 @@
 # LaserFocus
+![Channel Banner](images/LaserFocus%20Channel%20Banner.png)
+
 This repository contains all the code files used in creating videos for the LaserFocus YouTube channel.
 All the code in this repository is made with:
 1. Python 3.11.4
