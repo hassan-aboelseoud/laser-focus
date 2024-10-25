@@ -63,4 +63,4 @@ The steps to run the notebooks offline are as follows:
     ```sh
     jupyter notebook
     ```
-8. Select the folder corresponding to the playlist whose notebooks you want to run. Open the desired notebook and run it. You can experiment with the notebooks by running and modifying them.
+8. Select the folder corresponding to the playlist whose notebooks you want to run. Open the desired notebook and run it. You can experiment with the notebooks by running and modifying them. Any changes can be saved locally on your machine.
