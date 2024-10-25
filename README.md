@@ -3,6 +3,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hassan-aboelseoud/laser-focus.git/HEAD)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
+[![YouTube](images/YouTube%20Logo.png)](https://www.youtube.com/@laserfocus314)
 
 This repository contains all the code files used in creating videos for the LaserFocus YouTube channel.
 All the code in this repository is made with:
