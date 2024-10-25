@@ -54,9 +54,9 @@ The steps to run the notebooks offline are as follows:
         2. Install Manim Community Edition by running the command below:
 
             ```sh
-            python -m pip install manim==0.18.1
+            pip install manim==0.18.1
             ```
-        3. Install a [LaTeX](https://www.latex-project.org/) distribution. LaTeX is required for rendering mathematical equations and formulae. One such LaTeX distribution is  [MiKTeX](https://miktex.org/) which can be installed here [here](https://miktex.org/download).
+        3. Install a [LaTeX](https://www.latex-project.org/) distribution. LaTeX is required for rendering mathematical equations and formulae. One such LaTeX distribution is [MiKTeX](https://miktex.org/) which can be installed [here](https://miktex.org/download).
     * You can find the installation instructions [here](https://docs.manim.community/en/stable/installation.html) for any other operating system such as macOS or Linux.
 7. Launch Jupyter Notebook by running the command below:
 
