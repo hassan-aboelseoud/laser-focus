@@ -10,22 +10,23 @@ This repository contains all the code files used in creating videos for the Lase
 The notebooks can be run either online via [Binder](https://mybinder.org/) or offline, provided the dependencies are installed.
 
 ## Running the Notebooks Online
+1. Click [here](https://mybinder.org/v2/gh/hassan-aboelseoud/laser-focus.git/HEAD) or click on "launch binder" above.
+2. Select the folder corresponding to the playlist whose notebooks you want to run. Open the desired notebook and run it. You can experiment with the notebooks by running and modifying them all in your browser.
+    > **Note**: Any changes you make will only be made on your local session and will be discarded once you close the page.
 
 
 ## Running the Notebooks Offline
 The steps to run the notebooks offline are as follows:
 1. Install the [Python](https://www.python.org/) programming language. The version used in this repository is [Python 3.11.4](https://www.python.org/downloads/release/python-3114/).
-2. Clone this repository. You can do so by running
+2. Clone this repository. You can  download and unzip this repository [here](https://github.com/hassan-aboelseoud/laser-focus/archive/refs/heads/main.zip) or by clicking Code -> Download Zip above. Alternatively, you can run the command below.
     ```sh
     git clone https://github.com/hassan-aboelseoud/laser-focus.git
     ```
-    Alternatively, you can just download and unzip this repository [here](https://github.com/hassan-aboelseoud/laser-focus/archive/refs/heads/main.zip) or by clicking Code -> Downnload Zip above.
-3. Navigate to the cloned repository and create a Python [virtual environment](https://docs.python.org/3/tutorial/venv.html) by running
+3. Navigate to the cloned repository and create a Python [virtual environment](https://docs.python.org/3/tutorial/venv.html). A virtual environment is used to keep installed libraries localized to a specific project to keep them from conflicting with other projects. You can create a virtual environment by running the command below.
     ```sh
     python -m venv .venv
-    ```
-    A virtual environment is used to keep installed libraries localized to a specific project to keep them from conflicting with other projects. 
-4. Activate the Python virtual environment by running
+    ``` 
+4. Activate the Python virtual environment by running the command below.
     * On Windows:
         ```sh
         .venv\Scripts\activate
@@ -41,7 +42,7 @@ The steps to run the notebooks offline are as follows:
             * Extract the folder and rename it to "ffmpeg".
             * Move the "ffmpeg" folder to "C:\" (or any location you prefer).
             * Add "C:\ffmpeg\bin" to the PATH variable. Instructions on how to do so can be found [here](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/).
-        2. Install Manim Community Edition by running
+        2. Install Manim Community Edition by running the command below.
             ```sh
             python -m pip install manim
             ```
