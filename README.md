@@ -35,7 +35,7 @@ The steps to run the notebooks offline are as follows:
         ```sh
         .venv\Scripts\activate
         ```
-    * On MacOS and Linux:
+    * On macOS and Linux:
 
         ```sh
         source .venv/bin/activate
@@ -50,7 +50,7 @@ The steps to run the notebooks offline are as follows:
         1. Install [FFmpeg](https://www.ffmpeg.org/):
             * Follow the link [here]("https://www.gyan.dev/ffmpeg/builds/") and download the file "ffmpeg-git-full.7z" under "latest git master branch build".
             * Extract the folder and rename it to "ffmpeg".
-            * Move the "ffmpeg" folder to "C:\" (or any location you prefer).
+            * Move the "ffmpeg" folder to "C:\\" (or any location you prefer).
             * Add "C:\ffmpeg\bin" to the PATH variable. Instructions on how to do so can be found [here](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/).
         2. Install Manim Community Edition by running the command below:
 
