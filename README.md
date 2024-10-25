@@ -24,7 +24,7 @@ The steps to run the notebooks offline are as follows:
     ```sh
     git clone https://github.com/hassan-aboelseoud/laser-focus.git
     ```
-3. Navigate to the cloned repository and create a Python [virtual environment](https://docs.python.org/3/tutorial/venv.html). A virtual environment is used to keep installed libraries localized to a specific project to keep them from conflicting with other projects. You can create a virtual environment by running the command below:
+3. Open a Terminal window (Command Prompt on Windows) in the cloned repository and create a Python [virtual environment](https://docs.python.org/3/tutorial/venv.html). A virtual environment is used to keep installed libraries localized to a specific project to keep them from conflicting with other projects. You can create a virtual environment by running the command below:
 
     ```sh
     python -m venv .venv
