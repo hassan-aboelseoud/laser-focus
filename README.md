@@ -40,7 +40,7 @@ The steps to run the notebooks offline are as follows:
         ```sh
         source .venv/bin/activate
         ```
-5. Install [Jupyter] Notebook by running the command below:
+5. Install Jupyter Notebook by running the command below:
 
         ```sh
         pip install notebook
