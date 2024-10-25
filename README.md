@@ -41,11 +41,7 @@ The steps to run the notebooks offline are as follows:
         source .venv/bin/activate
         ```
 5. Install Jupyter Notebook by running the command below:
-
-        ```sh
-        pip install notebook
-        ```
-6. Install the [Manim Community Edition](https://docs.manim.community/en/stable/). The version used in this repository is v0.18.1.
+6. Install [Manim Community Edition](https://docs.manim.community/en/stable/). The version used in this repository is v0.18.1.
     * On Windows:
         1. Install [FFmpeg](https://www.ffmpeg.org/):
             * Follow the link [here]("https://www.gyan.dev/ffmpeg/builds/") and download the file "ffmpeg-git-full.7z" under "latest git master branch build".
